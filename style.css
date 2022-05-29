@@ -273,7 +273,7 @@ a:hover {
     transition: 0.3s;
 }
 
-card:hover {
+.card:hover {
     filter: unset;
 }
 
